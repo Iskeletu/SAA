@@ -7,7 +7,7 @@ void shellSort(int vector[], int vector_size)
 {
     int j, i, temp;
 
-    for (int gap = n/2; gap > 0; gap /= 2)
+    for (int gap = (vector_size/2); gap > 0; gap /= 2)
     {
         for (i = gap; i < vector_size; i += 1)
         {

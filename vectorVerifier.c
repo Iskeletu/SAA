@@ -1,4 +1,4 @@
-#include "vectorVerification.h"
+#include "vectorFunctions.h"
 
 //Checks if a integer vector is sorted in ascending order.
 //Requires a integer vector and it's size as input.

@@ -1,6 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
-#include "vectorGeneration.h"
+
+
+#include "vectorFunctions.h"
 
 
 //Generates integers and stores them in a integer vector.
@@ -33,7 +35,7 @@ int vectorGenerator(int vector[], int vector_size, int generation_type)
 
             for(int i = 0; i < vector_size; i++)
             {
-                vector[i] = ((rand() %vector_size)+1);
+                vector[i] = ((rand()%vector_size)+1);
             }
             break;
 

@@ -21,14 +21,10 @@
 #include "sortingAlgorithms.h"
 
 
-//Includes a vector generation function.
-//Returns 1 if generation was successful or 0 if it failed to do so.
-#include "vectorGeneration.h"
-
-
-//Includes vector verification function, it checks if input vector is sorted in ascending order.
-//Returns 1 if the input vector is sorted or 0 if it is not.
-#include "vectorVerification.h"
+//Includes a vector generation function and a vector verification function.
+//"vectorGenerator" Returns 1 if generation was successful or 0 if it failed to do so.
+//"vectorVerifier" Returns 1 if the input vector is sorted or 0 if it is not.
+#include "vectorFunctions.h"
 
 
 //Converts data from memory counters into memory usage in megabytes.
@@ -120,8 +116,8 @@ void saveResults(double cpu_time_used, double memory_used, int algorithm, int ve
 
     if(BenchmarkResults == NULL)
     {
-      printf("Error!\n");
-      exit(2); //Means that the program has failed to create/open a .dat file to write results.
+        printf("Error!\n");
+        exit(2); //Means that the program has failed to create/open a .dat file to write results.
     }
     else
     {
@@ -218,7 +214,7 @@ int benchmark(int algorithm)
 
     clock_t start_time, end_time;
     double cpu_time_used, memory_used;
-    size_t peakSize;
+    /*size_t peakSize;*/
     int error;
 
     int vector_size = 1000, generation_type = 1; //Standard benchmark, vector with 1000 integers and ascending number generation.
@@ -274,14 +270,14 @@ int benchmark(int algorithm)
 
                 case 6:
                     mergeSort(vector, vector_size);
-                      break;
+                    break;
 
                 case 7:
                     quickSort(vector, vector_size);
                     break;
 
                 case 8:
-                    countingSort(vector, vector_size);
+                    [countingSort(vector, vector_size);
                     break;
 
                 default:
@@ -318,7 +314,7 @@ int benchmark(int algorithm)
 
         vector_size += 1000;
         generation_type = 1;
-    } while(vector_size <= 10000);
+    } while(vector_size <= 100000);
 
     return 1;
 }
