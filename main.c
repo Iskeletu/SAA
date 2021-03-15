@@ -50,7 +50,7 @@ int main()
         exit(404); //Same as above.
     }
 
-    /*
+    
     //Insertion Sort Benchmark.
     result = benchmark(INSERTION);
     if(result == 1)
@@ -127,7 +127,6 @@ int main()
         printf("\tCOUNTINGSORT BENCHMARK HAS FAILED!\n\n\n\n\n");
         exit(404); //Same as above.
     }
-    */
 
     return 0;
 }
