@@ -27,7 +27,7 @@ Memory Usage: *Memory used (MB)*
 
 The same information is stored on "Benchmark\BenchmarkResults.dat".
 
-Included default benchmark results (See system info).
+Included default benchmark results (see "System info").
 
 ## System Info
 
