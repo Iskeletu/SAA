@@ -49,4 +49,8 @@ Included default benchmark results (see "System info").
 
 DDR4 2400MHz
 
+## License
+
+Distributed under MIT License, see LICENSE file for more information.
+
 ## PUC MINAS - CORAÇÃO EUCARÍSTICO
