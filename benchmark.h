@@ -1,1 +1,0 @@
-int benchmark(int algorithm);
