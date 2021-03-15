@@ -1,1 +1,0 @@
-int vectorGenerator(int vector[], int vector_size, int generation_type);
