@@ -277,7 +277,7 @@ int benchmark(int algorithm)
                     break;
 
                 case 8:
-                    [countingSort(vector, vector_size);
+                    countingSort(vector, vector_size);
                     break;
 
                 default:
