@@ -1,1 +1,1376 @@
 Check the README file for more info.
+
+----------BUBBLE SORT:----------
+Algorithm: Bubble Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 2.687500 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.008000 Seconds.
+Memory Usage: 2.718750 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.009000 Seconds.
+Memory Usage: 2.722656 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.017000 Seconds.
+Memory Usage: 2.734375 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.035000 Seconds.
+Memory Usage: 2.734375 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.033000 Seconds.
+Memory Usage: 2.734375 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.063000 Seconds.
+Memory Usage: 2.746094 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.138000 Seconds.
+Memory Usage: 2.746094 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.152000 Seconds.
+Memory Usage: 2.777344 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.254000 Seconds.
+Memory Usage: 2.843750 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.541000 Seconds.
+Memory Usage: 2.843750 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.638000 Seconds.
+Memory Usage: 2.843750 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 1.020000 Seconds.
+Memory Usage: 2.882813 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 2.162000 Seconds.
+Memory Usage: 2.882813 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 2.714000 Seconds.
+Memory Usage: 2.882813 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 4.092000 Seconds.
+Memory Usage: 3.003906 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 8.654000 Seconds.
+Memory Usage: 3.003906 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 11.314000 Seconds.
+Memory Usage: 3.015625 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 16.353000 Seconds.
+Memory Usage: 3.246094 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 35.263000 Seconds.
+Memory Usage: 3.246094 MB.
+
+
+
+Algorithm: Bubble Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 46.964000 Seconds.
+Memory Usage: 3.246094 MB.
+
+
+
+------------------------------
+
+
+----------SELECTION SORT:----------
+Algorithm: Selection Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.250000 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.250000 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.250000 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.015000 Seconds.
+Memory Usage: 3.257813 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.017000 Seconds.
+Memory Usage: 3.257813 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.016000 Seconds.
+Memory Usage: 3.257813 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.063000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.061000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.063000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.250000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.244000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.252000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 1.003000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 0.961000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 1.021000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 4.041000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 3.979000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 3.994000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 16.242000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 15.604000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Selection Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 16.150000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+------------------------------
+
+
+----------INSERTION SORT:----------
+Algorithm: Insertion Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.018000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.009000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.072000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.035000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.288000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.144000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 1.132000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.571000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 4.525000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 2.238000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 18.105000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Insertion Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 8.935000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+------------------------------
+
+
+----------SHELL SORT:----------
+Algorithm: Shell Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.003000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.006000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 0.003000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 0.014000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 0.006000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 0.008000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Shell Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 0.033000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+------------------------------
+
+
+----------HEAP SORT:----------
+Algorithm: Heap Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.003000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 0.005000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.007000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 0.010000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 0.010000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 0.014000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 0.021000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 0.020000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Heap Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 0.029000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+------------------------------
+
+
+----------MERGE SORT:----------
+Algorithm: Merge Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.269531 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.277344 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.277344 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.277344 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.292969 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.292969 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.292969 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.320313 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.320313 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.320313 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.382813 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.382813 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.382813 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 0.005000 Seconds.
+Memory Usage: 3.503906 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 0.005000 Seconds.
+Memory Usage: 3.503906 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 0.009000 Seconds.
+Memory Usage: 3.503906 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 0.011000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 0.011000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Merge Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 0.018000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+------------------------------
+
+
+----------QUICK SORT:----------
+Algorithm: Quick Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.009000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.006000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.034000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.025000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.136000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.099000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.546000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.392000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.002000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 2.184000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 1.568000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.004000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 8.747000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 6.298000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 0.008000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 35.568000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 25.328000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Quick Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 0.018000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+------------------------------
+
+
+----------COUNTING SORT:----------
+Algorithm: Counting Sort.
+Vector Size: 2000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 2000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 2000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 4000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 4000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 4000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 8000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 8000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 8000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 16000.
+Vector Generation Type: Ascending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 16000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 16000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 32000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 32000.
+Vector Generation Type: Descending.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 32000.
+Vector Generation Type: Random.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 64000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 64000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 64000.
+Vector Generation Type: Random.
+Runtime: 0.000000 Seconds.
+Memory Usage: 3.750000 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 128000.
+Vector Generation Type: Ascending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 4.218750 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 128000.
+Vector Generation Type: Descending.
+Runtime: 0.001000 Seconds.
+Memory Usage: 4.222656 MB.
+
+
+
+Algorithm: Counting Sort.
+Vector Size: 128000.
+Vector Generation Type: Random.
+Runtime: 0.002000 Seconds.
+Memory Usage: 4.222656 MB.
+
+
+
+------------------------------
