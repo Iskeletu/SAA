@@ -45,7 +45,7 @@ Included default benchmark results (see "System info").
 
 8GB VRam GDDR5 8GHz
 
-- Memory: Hyperx Fury 16GB (2x8)
+- Memory: Hyperx Fury 16GB (Dual Channel 2x8)
 
 DDR4 2400MHz
 
