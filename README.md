@@ -13,13 +13,13 @@ SAA is a C program for benchmarking C implementation of the following algorithms
 
 ## Usage
 
-No user input/configuration necessary, the program will simply run every benchmark for every sorting algorithm implementation (starting with 1000 integers vector up to 100000) based on your computer specs.
+No user input/configuration necessary, the program will simply run every benchmark for every sorting algorithm implementation (starting with 2000 integers vector up to 128000) based on your computer specs.
 
 The program will display information for every benchmark:
 
 ```bash
 Algorithm: *algorithm name*
-Vector Size: 1.000 ~ 100000
+Vector Size: 2000 ~ 128000
 Vector Generation Type: Ascending/Descending/Random
 Runtime: *time elapsed*
 Memory Usage: *Memory used (MB)*
