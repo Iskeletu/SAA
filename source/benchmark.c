@@ -217,7 +217,7 @@ int benchmark(int algorithm)
     /*size_t peakSize;*/
     int error;
 
-    int vector_size = 1000, generation_type = 1; //Standard benchmark, vector with 1000 integers and ascending number generation.
+    int vector_size = 2000, generation_type = 1; //Standard benchmark, vector with 2000 integers and ascending number generation.
     //Generation types:
     /*
     1 - Ascending.
@@ -225,7 +225,7 @@ int benchmark(int algorithm)
     3 - Random.
     */
 
-    //Runs benchmark until vector size reaches 100000 integers.
+    //Runs benchmark until vector size reaches 128000 integers.
     do
     {
 
@@ -312,9 +312,9 @@ int benchmark(int algorithm)
             generation_type++;
         } while(generation_type <= 3);
 
-        vector_size += 1000;
+        vector_size *= 2;
         generation_type = 1;
-    } while(vector_size <= 100000);
+    } while(vector_size <= 128000);
 
     return 1;
 }
